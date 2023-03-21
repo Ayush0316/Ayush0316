@@ -1,6 +1,10 @@
 # 💫 About Me:
+
+<img align ="right" alt="Coding"  width="140"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 Currently I am enthusiastically working towards the projects of Android Development and Machine Learning.<br>The projects that I am working primarily focus on bringing a positive change in the society in a quest to give something back to the society.<br>I look forward to collaborating with interested individuals working on web-development and machine-learning projects.<br>I would like for someone to help me with my android development projects with proper guidance and practice.<br>I am currently learning machine learning and Android Development.<br>Ask me about web-development, debugging and problem-solving across various concepts of development.<br>FUN FACT ABOUT ME: Along with Development and programming I love to listen to music and watching and playing cricket.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-arora14 &label=Profile%20views&color=0e75b6&style=flat" alt="sugam-arora14" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.03.16) 
